@@ -1,4 +1,4 @@
-# IterasysTestesWeb
+# TestesWeb
 Desafio do Teste Web
 
 Ferramentas Utilizadas:
